@@ -1,0 +1,11 @@
+Model Information:
+* title:	[FREE DOWNLOAD] Lowpoly Campfires 3D Model
+* source:	https://sketchfab.com/3d-models/free-download-lowpoly-campfires-3d-model-c8f23780ad914b95ba6f98a221e415fc
+* author:	SimplePolygon (https://sketchfab.com/SimplePolygon)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[FREE DOWNLOAD] Lowpoly Campfires 3D Model" (https://sketchfab.com/3d-models/free-download-lowpoly-campfires-3d-model-c8f23780ad914b95ba6f98a221e415fc) by SimplePolygon (https://sketchfab.com/SimplePolygon) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)

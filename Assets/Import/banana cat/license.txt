@@ -1,0 +1,11 @@
+Model Information:
+* title:	Puss in banana suit 3D model
+* source:	https://sketchfab.com/3d-models/puss-in-banana-suit-3d-model-0bbfe96868d14c808e39f4618b6669a6
+* author:	Wnight (https://sketchfab.com/Wnight)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Puss in banana suit 3D model" (https://sketchfab.com/3d-models/puss-in-banana-suit-3d-model-0bbfe96868d14c808e39f4618b6669a6) by Wnight (https://sketchfab.com/Wnight) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

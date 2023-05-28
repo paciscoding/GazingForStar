@@ -25,14 +25,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7567981798837112799}
-  m_LocalRotation: {x: -0.45523742, y: -0.006493122, z: -0.40966895, w: 0.7904987}
-  m_LocalPosition: {x: -1.1999991, y: -2.0999994, z: -0.5999987}
-  m_LocalScale: {x: 1, y: 1, z: 1.4427}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 7567981799304219743}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: -46.473, y: 31.782, z: -68.728}
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!198 &7567981798837112784
 ParticleSystem:
   m_ObjectHideFlags: 0
@@ -223,7 +223,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.6755073, g: 0.8175209, b: 0.8679245, a: 1}
+      maxColor: {r: 0.8401566, g: 0.9160061, b: 0.9433962, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -4799,7 +4799,7 @@ ParticleSystemRenderer:
   m_UseCustomVertexStreams: 0
   m_EnableGPUInstancing: 1
   m_ApplyActiveColorSpace: 1
-  m_AllowRoll: 1
+  m_AllowRoll: 0
   m_FreeformStretching: 0
   m_RotateWithStretchDirection: 1
   m_VertexStreams: 00010304
@@ -4838,15 +4838,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7567981799304219738}
-  m_LocalRotation: {x: 0.20833632, y: -0.7787915, z: -0.52831066, w: -0.26639748}
-  m_LocalPosition: {x: 24.3, y: 3.2, z: -28.2}
+  m_LocalRotation: {x: 0, y: 0.9417791, z: 0.33623248, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 7567981798837112798}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: -69.049, y: -213.011, z: -6.91}
+  m_LocalEulerAnglesHint: {x: -39.295, y: 180, z: 0}
 --- !u!198 &7567981799304219740
 ParticleSystem:
   m_ObjectHideFlags: 0
@@ -8197,7 +8197,7 @@ ParticleSystem:
     range: {x: 0, y: 1}
     separateAxes: 0
   RotationBySpeedModule:
-    enabled: 0
+    enabled: 1
     x:
       serializedVersion: 2
       minMaxState: 0

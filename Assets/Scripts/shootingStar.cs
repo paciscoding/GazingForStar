@@ -26,6 +26,6 @@ public class shootingStar : MonoBehaviour
     
     private void spawn()
     {
-        Instantiate(shootingstarPrefab, new Vector3(Random.Range(-1500,0), Random.Range(50,600), Random.Range(-2000, 2000)), shootingstarPrefab.transform.rotation);
+        Instantiate(shootingstarPrefab, new Vector3(Random.Range(-1500,1500), Random.Range(50,600), Random.Range(-2000, 2000)), shootingstarPrefab.transform.rotation);
     }
 }
